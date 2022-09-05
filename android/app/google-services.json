@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342849147342",
+    "project_id": "mon-agenda-partage-2a02c",
+    "storage_bucket": "mon-agenda-partage-2a02c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342849147342:android:c6d9409b47bd29f560db9f",
+        "android_client_info": {
+          "package_name": "com.example.mon_agenda_partage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342849147342-i2sn93145u2jouu410r2v3rlphmh34d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmUGastH85UW_lWrIp_2Zq8hKZdj0AAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342849147342-i2sn93145u2jouu410r2v3rlphmh34d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
