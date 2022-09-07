@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653335048022",
+    "project_id": "agendapartager-baabc",
+    "storage_bucket": "agendapartager-baabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653335048022:android:80c4c6ec20fb681f1df0f7",
+        "android_client_info": {
+          "package_name": "com.example.zm_agenda_partager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653335048022-7j7djq2r66uf6ie7o4tiavg2pr5vglfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zZTW7EXixq7ua9n-H6f4-BTosowalBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653335048022-7j7djq2r66uf6ie7o4tiavg2pr5vglfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
